@@ -1,11 +1,11 @@
-# Banking System in C
+# 🏦 Banking System in C
 
-This is my first C programming project.
+A simple banking system developed in C featuring deposit, withdrawal, and balance management operations.
 
-## Features
-- Deposit Money
-- Withdraw Money
-- Check Balance
+## ✨ Features
+- 💰 Deposit Money
+- 💸 Withdraw Money
+- 📊 Check Balance
 
-## Author
+## 👨‍💻 Author
 Tushar Beshra
