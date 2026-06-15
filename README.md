@@ -35,6 +35,8 @@ A simple console-based Bank Management System built using C. The project allows 
 * Change PIN
 * Multiple Accounts
 * Money Transfer Feature
+* 
+![Snake Water Gun Game](screenshot3.png)
 
 ## 👨‍💻 Author
 
