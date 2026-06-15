@@ -26,7 +26,7 @@ A simple console-based Bank Management System built using C. The project allows 
 * Loops
 * Conditional Statements
 * User Authentication
-* Menu-Driven Programming
+
 
 ## 🎯 Future Improvements
 
