@@ -12,15 +12,18 @@ void menu (){
         int enteredPin;
         int isLoggedIn = 0;   // flag to check login status whether log in or not
         
-            while (1){
-                printf("\n===== BANK MENU =====\n");
-                printf("1. Login\n");          // menu
-                printf("2. Check Balance\n");
-                printf("3. Deposit\n");
-                printf("4. Withdraw\n");
-                printf("5. Exit\n");
-
-                printf("Enter Choice: ");
+            while (1) {
+                printf("\n");
+                printf("=====================================\n");
+                printf("         BANK MANAGEMENT SYSTEM\n");
+                printf("=====================================\n");
+                printf(" 1. Login\n");
+                printf(" 2. Check Balance\n");
+                printf(" 3. Deposit Money\n");
+                printf(" 4. Withdraw Money\n");
+                printf(" 5. Exit\n");
+                printf("=====================================\n");
+                printf(" Enter Your Choice (1-5): ");
                 scanf("%d", &choice);
 
                 // LOGIN 
